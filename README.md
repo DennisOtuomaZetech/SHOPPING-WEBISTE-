@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 # SHOPPING-WEBISTE-
+=======
+# SHOPPING-WEBISTE
+>>>>>>> f483294ea92c379af2254bd1b156deac2637d09c
